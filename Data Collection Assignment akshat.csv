@@ -1,0 +1,19 @@
+S. No.,Food Item,Category of Dish,Cuisine,Flavour,Calories (kcal),Protein (g),Carbohydrates (g),Fats (g),Fiber (g)
+1,Besan and Oat Chilla,Breakfast,Indian,Savoury,218,8,21.7,10.8,4.5
+2,Mango Shake,Beverage,Western,Sweet,286,7.2,45.1,8.6,3.5
+3,Chicken Club Sandwich,Lunch,Western,Savoury,624,37.2,58.8,25.8,3.9
+4,Rajma Chawal,Lunch,Indian,Savoury,484,15.7,83.8,9.7,13.2
+5,Yogurt and Fruit Bowl,Snack,Western,Sweet,106,4,14.1,3.8,1.4
+6,Grilled Chicken and Vegetables,Dinner,Western,Savoury,437,55.3,17.4,17,5.4
+7,Omlette ,Breakfast,Western,Savoury,254,13.3,2.1,22.3,0.1
+8,Cheese and Capsicum Toast,Breakfast,Western,Savoury,507,16.9,63.3,20.7,5
+9,White Sauce Pasta,Lunch,Western,Savoury,389,12.9,55.5,12.4,2.5
+10,Chole Bhature,Lunch,Indian,Savoury,544,12.7,66.3,25.4,7.4
+11,Chicken Udon Noodles,Dinner,Asian,Spicy,335,21.8,52.2,3.7,5.6
+12,Fish Gravy,Dinner,Indian,Spicy,246,28.6,13.9,8.7,4.2
+13,Aloo Paratha,Breakfast,Indian,Savoury,406,9.4,62.4,13.4,8.7
+14,Poha,Breakfast,Indian,Savoury,274,4.6,48.3,7.2,2
+15,Dal Makhani,Lunch,Indian,Savoury,329,12.2,32.9,16.7,11.8
+16,Shahi Paneer,Lunch,Indian,Savoury,225,8.3,7,18.4,1.7
+17,Chicken Tikka Wrap,Lunch,Fusion,Savoury,273,20.2,26.7,9.7,4.4
+18,Pad Thai Noodles,Dinner,Asian,Spicy,490,13.4,10.3,13.2,13.2
